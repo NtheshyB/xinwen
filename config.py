@@ -5,7 +5,7 @@ class Config(object):
     """工程配置信息"""
     DEBUG = True
     # 数据库的配置信息
-    SQLALCHEMY_DATABASE_URI = "mysql://root:wu1374395439@127.0.0.1:3306/information"
+    SQLALCHEMY_DATABASE_URI = "mysql://root:333839@127.0.0.1:3306/information"
     SQLALCHEMY_TRACK_MODIFICATIONS = False
 
 
